@@ -1,0 +1,5 @@
+
+function handleTimer() {
+
+  drawCanvas() 
+}
